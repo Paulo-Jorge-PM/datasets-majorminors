@@ -1,0 +1,105 @@
+{
+  "name": "Serie A 2019/20",
+  "clubs": [
+    {
+      "key": "hellasverona",
+      "name": "Hellas Verona FC",
+      "code": "HEL"
+    },
+    {
+      "key": "milan",
+      "name": "AC Milan",
+      "code": "MIL"
+    },
+    {
+      "key": "sampdoria",
+      "name": "UC Sampdoria",
+      "code": "SAM"
+    },
+    {
+      "key": "juventus",
+      "name": "Juventus",
+      "code": "JUV"
+    },
+    {
+      "key": "inter",
+      "name": "FC Internazionale Milano",
+      "code": "INT"
+    },
+    {
+      "key": "genoa",
+      "name": "Genoa CFC",
+      "code": "GEN"
+    },
+    {
+      "key": "cagliari",
+      "name": "Cagliari Calcio",
+      "code": "CAG"
+    },
+    {
+      "key": "atalanta",
+      "name": "Atalanta BC",
+      "code": "ATA"
+    },
+    {
+      "key": "lazio",
+      "name": "SS Lazio",
+      "code": "LAZ"
+    },
+    {
+      "key": "udinese",
+      "name": "Udinese Calcio",
+      "code": "UDI"
+    },
+    {
+      "key": "roma",
+      "name": "AS Roma",
+      "code": "ROM"
+    },
+    {
+      "key": "napoli",
+      "name": "SSC Napoli",
+      "code": "NAP"
+    },
+    {
+      "key": "bologna",
+      "name": "Bologna FC",
+      "code": "BOL"
+    },
+    {
+      "key": "parma",
+      "name": "Parma",
+      "code": "PAR"
+    },
+    {
+      "key": "torino",
+      "name": "Torino FC",
+      "code": "TOR"
+    },
+    {
+      "key": "sassuolo",
+      "name": "US Sassuolo Calcio",
+      "code": "SAS"
+    },
+    {
+      "key": "fiorentina",
+      "name": "ACF Fiorentina",
+      "code": "FIO"
+    },
+    {
+      "key": "spal",
+      "name": "SPAL",
+      "code": null
+    },
+    {
+      "key": "brescia",
+      "name": "Brescia",
+      "code": null
+    },
+    {
+      "key": "uslecce",
+      "name": "US Lecce",
+      "code": null
+    }
+  ]
+}
